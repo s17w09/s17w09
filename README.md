@@ -1,3 +1,5 @@
+[![Image from Gyazo](https://i.gyazo.com/48d82ac7416c6d66330e1fd762a48c99.png)](https://gyazo.com/48d82ac7416c6d66330e1fd762a48c99)
+
 <h1 align="center">Hi 👋, I'm Ruby and Ruby on Rails Enthusiast</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s17w09&label=Profile%20views&color=0e75b6&style=flat" alt="s17w09" /> </p>
 
