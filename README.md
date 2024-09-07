@@ -1,6 +1,6 @@
-<h1 align="cente">ポートフォリオ</h1>
-<h4 align="left">サービスURL：[Miniita](https://www.miniita.com/)<h4>
-<h4 align="left">GitHub：[リポジトリ](https://github.com/s17w09/Miniita)<h4>
+<h1 align="cente">ポートフォリオ：Miniita(ミニータ)</h1>
+<h4 align="left">サービスURL：https://www.miniita.com<h4>
+<h4 align="left">GitHub：https://github.com/s17w09/Miniita<h4>
 
 [![Image from Gyazo](https://i.gyazo.com/f9acd6ce27eb2065aac3cfb78aee5c24.png)](https://gyazo.com/f9acd6ce27eb2065aac3cfb78aee5c24)
 
