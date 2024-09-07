@@ -1,7 +1,5 @@
 <h1 align="cente">ポートフォリオ</h1>
-
 [![Image from Gyazo](https://i.gyazo.com/f9acd6ce27eb2065aac3cfb78aee5c24.png)](https://gyazo.com/f9acd6ce27eb2065aac3cfb78aee5c24)
-
 <p align="left">技術記事を書いたことがない / 投稿したいけどハードルが高く投稿できないという方向けに、技術記事を投稿しやすい環境を提供するアプリです。「①書くことへの抵抗感を下げる ②見られることへの抵抗感を下げる ③継続して投稿を続けられる」機会をユーザーに提供します。</hp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s17w09&label=Profile%20views&color=0e75b6&style=flat" alt="s17w09" /> </p>
